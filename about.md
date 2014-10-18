@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Open Data STL is a group of civic-minded data-savvy citizens of St. Louis and the surrounding metropolitan area that has come together to provide resources for finding openly available data related to the growth, history, productivity, and demographics of our fair city.
 
-### More Information
+### Meetup!
+RSVP for our next event on the OpenDataSTL meetup page at [http://www.meetup.com/Open-Data-STL/](http://www.meetup.com/Open-Data-STL/)
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[b@buildforstl.org](mailto:b@buildforstl.org)
