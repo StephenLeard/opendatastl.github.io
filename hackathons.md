@@ -10,4 +10,4 @@ Another OpenDataSTL staple are editathons; hackathons in which ordinary people g
 
 Finally, OpenDataSTL uses hackathons to support local non-profits and government. We love working with civic-minded organizations to plan hack days and hackathons to help make sure their datasets are being properly used. If you work for such an organization, and you have a dataset that you'd like to see get used, or you need help creating a dataset, fill out the form, and we'll work with you to create a hacking event. You provide the space and food, we'll organize, publicize, and administrate the event.
 
-##Submission form is at https://docs.google.com/forms/d/1NrXJXfRVxr7OL1orWCjqoG0K5Ks9SPjW14ChEpaZmHk/edit
+##[Submit a hackathon request](https://docs.google.com/forms/d/1NrXJXfRVxr7OL1orWCjqoG0K5Ks9SPjW14ChEpaZmHk/viewform)
