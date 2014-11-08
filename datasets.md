@@ -9,6 +9,10 @@ At its heart, OpenDataSTL is about freeing data and making cool stuff with it, a
 ##[See Saint Louis Data on Plenar.io](http://plenar.io/explore)
 
 ##Datasets
-[Saint Louis Home Sales 2007-2013](https://communities.socrata.com/Finance/Home-Sales-2007-To-2013/cqqy-hae6)
-[SLMPD Downloadable Crime Files](http://www.slmpd.org/Crimereports.shtml)
+<ul>
+
+<li>[Saint Louis Home Sales 2007-2013](https://communities.socrata.com/Finance/Home-Sales-2007-To-2013/cqqy-hae6)</li>
+<li>[SLMPD Downloadable Crime Files](http://www.slmpd.org/Crimereports.shtml)</li>
+</ul>
+
 
