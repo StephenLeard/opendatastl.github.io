@@ -2,9 +2,7 @@
 layout: page
 title: Code of Conduct
 ---
-Code of Conduct
-=============
-The most recent version of this code of conduct and the codes of conduct for specific CfA online venues are available at https://github.com/codeforamerica/codeofconduct
+The most recent version of this code of conduct and the codes of conduct for specific CfA online venues are available at <a href="https://github.com/codeforamerica/codeofconduct">https://github.com/codeforamerica/codeofconduct</a>.
 
 ####Code for America's Code of Conduct
 
@@ -43,11 +41,11 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. Event organizer contact information will be provided for each event, but you can reach brigade co-captain Eleanor Tutt at eleanor.tutt@gmail.com and co-captain Brett Lord-Castillo at blord-castillo@gmail.com or 314-615-9507. Feel free to use the template below. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. Event organizer contact information will be provided for each event, but you can reach brigade co-captain Eleanor Tutt at <a href="mailto:eleanor.tutt@gmail.com">eleanor.tutt@gmail.com</a> and co-captain Brett Lord-Castillo at <a href="mailto:blord-castillo@gmail.com">blord-castillo@gmail.com</a> or 314-615-9507. Feel free to use the template below. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Code for America about harassment at <a href="mailto:safespace@codeforamerica.org">safespace@codeforamerica.org</a> and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
