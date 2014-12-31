@@ -1,4 +1,8 @@
-Code Of Conduct
+---
+layout: page
+title: Code of Conduct
+---
+Code of Conduct
 =============
 The most recent version of this code of conduct and the codes of conduct for specific CfA online venues are available at https://github.com/codeforamerica/codeofconduct
 
