@@ -2,20 +2,20 @@
   href: "/"
  
 - title: "About"
-  href: "/about/"
+  href: "/about"
   subcategories:
     - subtitle: "Leadership Team"
-      subhref: "/leadership/"
+      subhref: "/leadership"
     - subtitle: "Code of Conduct"
-      subhref: "/codeofconduct/"
+      subhref: "/codeofconduct"
 
 - title: "Hackathons"
-  href: "/hackathons/"
+  href: "/hackathons"
 
 
 - title: "Datasets"
-  href: "/datasets/"
+  href: "/datasets"
  
  
 - title: "Calendar"
-  href: "/calendar/"
+  href: "/calendar"
