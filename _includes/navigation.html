@@ -1,8 +1,13 @@
 <nav>
-  <a href="{{ site.baseurl }}/">Blog</a>
-  <a href="{{ site.baseurl }}/about">About</a>
-  <a href="{{ site.baseurl }}/codeofconduct">Code of Conduct</a>
-  <a href="{{ site.baseurl }}/hackathons">Hackathons</a>
-  <a href="{{ site.baseurl }}/datasets">Datasets</a>
-  <a href="{{ site.baseurl }}/calendar">Calendar</a>
+  {% for npage in site.data.nav %}
+  {% if npage.subcategories != null %}
+  <li class="dropdown">
+  <a href="{{ site.url }}{{ npage.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ npage.title }}<i class="fa fa-angle-down"></i></a>
+  <ul class="dropdown-menu">
+  {% for subcategory in npage.subcategories %}
+    <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+  {% endfor %}
+  {% else %}
+    <li><a href="{{ site.url }}{{ npage.href }}">{{ npage.title }}</a>{% endif %}</li>
+  {% endfor %}
 </nav>
