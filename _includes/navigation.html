@@ -1,4 +1,19 @@
-<nav>
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+  <div class="container">
+  <div class="navbar-header">
+  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+  <span class="sr-only">Toggle navigation</span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+  </button>
+
+  <a class="navbar-brand" href="{{ site.url }}/index.html"><img src="{{ site.url }}/img/elastic-path-logo.png" width="155"></a>
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+  <ul class="nav navbar-nav navbar-right">
   {% for npage in site.data.nav %}
   {% if npage.subcategories != null %}
   <li class="dropdown">
@@ -7,7 +22,11 @@
   {% for subcategory in npage.subcategories %}
     <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
   {% endfor %}
+  </ul>
   {% else %}
     <li><a href="{{ site.url }}{{ npage.href }}">{{ npage.title }}</a>{% endif %}</li>
   {% endfor %}
+  </ul>
+  </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
 </nav>
