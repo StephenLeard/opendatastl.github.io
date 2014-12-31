@@ -110,8 +110,10 @@ Many of our goals will be advanced during and through events.  In addition to th
 + Additional influence (perhaps measured via social media follows, web analytics, etc.) due to improved communication and messaging
 
 ----------
-	
-##Draft Budget
+
+##Draft Budget  
+*Note: Draft budget is based on an anticipated $5,500 of Code for America brigade support. Budget categories and line item amounts may shift as goals/strategies are refined, specific event needs are identified, or local sponsorships are obtained.*  
+  
 $ 500.00  Brigade Costs     
 $1960.00  Regular Events  
 $ 600.00  CodeAcross  
