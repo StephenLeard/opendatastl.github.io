@@ -3,7 +3,24 @@ layout: default
 ---
 
 <div class="posts">
+  <!-- Display sticky posts first without truncation-->
+  {% for post in site.categories.sticky %}
+  {% assign content = post.content %}
+  <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        {{ post.content }}
+      </div>
+  </article>
   {% for post in site.posts %}
+    <!-- Test for sticky category -->
+    {% assign sticky = false %}
+    {% for cat in post.categories %} <!-- roll through this pages categories to find if it is sticky -->
+      {% if cat == 'sticky' %}
+        {% assign sticky = true %}
+      {% endif %}
+    {% endfor %}
+    <!-- Currently displaying all posts, which doubles stickies -->
     <article class="post">    
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
