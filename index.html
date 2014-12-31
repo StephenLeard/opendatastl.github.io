@@ -12,6 +12,8 @@ layout: default
         {{ post.content }}
       </div>
   </article>
+  {% endfor %}
+  <!-- Non-sticky posts with truncation -->
   {% for post in site.posts %}
     <!-- Test for sticky category -->
     {% assign sticky = false %}
