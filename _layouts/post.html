@@ -10,19 +10,11 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
-  <div class="profile">
-  	<div class="meta">
-  		<img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40">
-  		<span class="author">{{ author.display_name }}</span>
-  		<span>{{ author.website }}</span>
-  		<span class="social">{{ author.twitter }} {{ author.github }}</span>
-  	</div>
-  </div>
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  
+
+  {% include author.html %}
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
