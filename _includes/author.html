@@ -1,0 +1,16 @@
+<div class="container" style='margin: 50px auto;'>
+  <div class="row">
+    <div class="about-the-author col-md-8 col-md-offset-2">
+      {% assign author = site.data.authors | where:"id", page.author %}
+      {% assign author = author_data | first %}
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" alt="photo of {{ author.display_name }}>
+      <h3>About The Author</h3>
+      <p>
+        {{ author.bio }}
+      </p>
+  		<p>Website: <a href="{{ author.website }}">{{ author.website }}</a></p>
+  		<p>Twitter: <a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a></p>
+  		<p>GitHub: <a href="http://github.com/{{ author.github }}">{{ author.github }}</a></p>
+    </div>
+  </div>
+</div>
