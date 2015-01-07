@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where to Find Open Data
-author: brett
+author: Brett
 ---
 *Need a sample open data set? Look at these sites.*    
 Open data is commonly used in education and training. You want to learn new tools or teach your skills to others, and for that you need sample data. Open data gives you access to a wide variety of data without concerns on licensing; even access to "big data" datasets. Just today, I was helping someone with the basic question, "Where can I find sample datasets?" and realized I should share my response to help further this specific use of open data.  
