@@ -3,7 +3,7 @@
     <div class="about-the-author col-md-8 col-md-offset-2">
       {% assign author = site.data.authors | where:"id", page.author %}
       {% assign author = author_data | first %}
-      <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" alt="photo of {{ author.display_name }}>
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" alt="photo of {{ author.display_name }}">
       <h3>About The Author</h3>
       <p>
         {{ author.bio }}
