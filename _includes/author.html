@@ -9,8 +9,8 @@
       <p>
         {% if author.website != null %}<a href="{{ author.website }}">{{ author.website }}</a>{% endif %}
         {% if author.email != null %}<a href="mailto:{{ author.email }}">{% include svg-icons/email.html %}</a>{% endif %}
-    		{% if author.twitter != null %}<a href="http://twitter.com/{{ author.twitter }}">{% include svg-icons/twitter.html %}@{{ author.twitter }}</a>{% endif %}
-    		{% if author.github != null %}<a href="http://github.com/{{ author.github }}">{% include svg-icons/github.html %}{{ author.github }}</a>{% endif %}
+    		{% if author.twitter != null %}<a href="http://twitter.com/{{ author.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
+    		{% if author.github != null %}<a href="http://github.com/{{ author.github }}">{% include svg-icons/github.html %}</a>{% endif %}
     	</p>
     </div>
   </div>
