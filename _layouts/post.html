@@ -2,10 +2,14 @@
 layout: default
 ---
 
-{% assign author = site.data.authors[page.author] %}
+{% for a in site.data.authors %}{% if a.display_name == page.author %}
+  {% assign author = a %}
+{% endif %}{% endfor %}
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {% if author != null %}
   <h2>by {{ author.display_name }}</h2>
+  {% endif %}
 
   <div class="entry">
     {{ content }}
@@ -14,7 +18,9 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  {% if author != null %}
   {% include author.html %}
+  {% endif %}
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
