@@ -1,15 +1,13 @@
-brett:
+- display_name: Brett
   name: Brett Lord-Castillo
-  display_name: Brett
   gravatar: 110fe372e341776c077719384806dce5
   email: blordcastillo@gmail.com
   web: http://opendatastl.github.io/
   twitter: blordcastillo
   github: blordcastillo
   
-eleanor:
+- display_name: Eleanor
   name: Eleanot Tutt
-  display_name: Eleanor
   gravatar: 44b5fddb549952143fc83df3ee224c74
   email: eleanor.tutt@gmail.com
   web: http://risestl.org/
