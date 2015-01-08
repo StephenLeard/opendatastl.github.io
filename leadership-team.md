@@ -30,4 +30,6 @@ Community Organizer: *Currently Vacant*
 Local Government Partners  
 ==========  
 * City of St Louis  
+  - Carl Filler, Health Department
 * St Louis County  
+  - Mike Duncan, CIO
