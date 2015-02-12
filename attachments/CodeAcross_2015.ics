@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+X-WR-CALNAME:Code Across 2015
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150212T190647Z
+UID:20150212T190647Z-331343688@marudot.com
+DTSTART;TZID="America/Chicago":20150221T080000
+DTEND;TZID="America/Chicago":20150221T170000
+SUMMARY:CodeAcross 2015
+URL:http%3A%2F%2Fopendatastl.github.io%2Fcodeacross-2015%2F
+DESCRIPTION:CodeAcross 2015 will be held Saturday\, February 21st at World Wide Technology headquarters.\nWe will be in the auditorium at 701 Fee Fee Rd in Maryland Heights from 8am to 5pm.  \nRSVP at http://www.meetup.com/Open-Data-STL/  \nMore information at http://opendatastl.github.io/codeacross-2015/  
+LOCATION:World Wide Technology\, 701 Fee Fee Rd\, Maryland Heights\, MO 63043
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CodeAcross 2015
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
