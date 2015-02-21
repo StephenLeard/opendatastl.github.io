@@ -6,6 +6,16 @@
 
 - title: "Datasets"
   href: "/datasets"
+    subcategories:
+    - subtitle: "Hosted on github"
+      subhref: "http://plenar.io/explore"
+    - subtitle: "Hosted on plenar.io"
+      subhref: "http://plenar.io/explore"
+    - subtitle: "Hosted on Socrata"
+      subhref: "https://brigades.opendatanetwork.com/brigade?brigade=Open%20Data%20STL"
+    - subtitle: "Request a dataset"
+      subhref: "https://docs.google.com/forms/d/1z72U3DC3zAFCc1Ie8UWr_K2KczD3Y9V2PshQtl09bdc/viewform"
+
 
 - title: "Calendar"
   href: "/calendar"
