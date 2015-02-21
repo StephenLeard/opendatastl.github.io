@@ -6,7 +6,7 @@
 
 - title: "Datasets"
   href: "/datasets"
-    subcategories:
+  subcategories:
     - subtitle: "Hosted on github"
       subhref: "http://plenar.io/explore"
     - subtitle: "Hosted on plenar.io"
