@@ -10,7 +10,7 @@
     - subtitle: "About our Datasets"
       subhref: "/datasets"
     - subtitle: "Hosted on github"
-      subhref: "http://plenar.io/explore"
+      subhref: "https://github.com/OpenDataSTL/stl-datasets"
     - subtitle: "Hosted on plenar.io"
       subhref: "http://plenar.io/explore"
     - subtitle: "Hosted on Socrata"
