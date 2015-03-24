@@ -20,7 +20,11 @@
     <a href="{{ site.url }}{{ npage.href }}" class="dropdown-toggle" data-toggle="dropdown" role="button" data-target="#" aira-haspopup="true" aria-expanded="false">{{ npage.title }} <span class="caret"></span></a>
     <ul class="dropdown-menu" role="menu">
   {% for subcategory in npage.subcategories %}
+    {% if subcategory.external != null and subcategory.external = "yes" %}
+    <li><a href="{{ subcategory.subhref }}" target="_blank">{{ subcategory.subtitle }}</a></li>
+    {% else %}
     <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+{% endif %}
   {% endfor %}
   </ul>
   {% else %}
