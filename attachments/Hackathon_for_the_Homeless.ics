@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+X-WR-CALNAME:Hackathon for the Homeless
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150409T142725Z
+UID:20150409T142725Z-1457665103@marudot.com
+DTSTART;TZID="America/Chicago":20150411T093000
+DTEND;TZID="America/Chicago":20150411T160000
+SUMMARY:Hackathon for the Homeless
+URL:http%3A%2F%2Fopendatastl.github.io%2Fhackathon-for-the-homeless%2F
+DESCRIPTION:Hackathon For the Homeless will kick off Saturday\, April 11th at the St. Patrick Center\, 800 N. Tucker Blvd.\nWe will be in McMurphy’s Café from 9:30 am to 4:00 pm.\nRSVP at http://www.meetup.com/Open-Data-STL/\nMore information at http://opendatastl.github.io/hackathon-for-the-homeless/ 
+LOCATION:McMurphy’s Café\, St. Patrick Center\, 900 N. Tucker Blvd\, St. Louis\, MO 63101
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hackathon for the Homeless
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20150409T142725Z
+UID:20150409T142725Z-1538358111@marudot.com
+DTSTART;TZID="America/Chicago":20150412T110000
+DTEND;TZID="America/Chicago":20150412T150000
+SUMMARY:Hackathon for the Homeless Presentations
+URL:http%3A%2F%2Fopendatastl.github.io%2Fhackathon-for-the-homeless%2F
+DESCRIPTION:We wrap up the Hackathon for the Homeless scatterjam with presentations at WUSTL.\nPresentations will be in Rudolph Hall\, Room 308\, Washington University in St Louis Danforth Campus\, starting at 11 am and wrapping up by 3 pm.\nRSVP at http://www.meetup.com/Open-Data-STL/\nMore information at http://opendatastl.github.io/hackathon-for-the-homeless/ 
+LOCATION:Rudolph Hall\, Room 308\, Washington University in St Louis\, 1 Brookings Dr\, St Louis\, MO 63130
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hackathon for the Homeless Presentations
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
