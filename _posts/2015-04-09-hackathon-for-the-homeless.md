@@ -25,4 +25,5 @@ The Hackathon will continue on Sunday, April 12 from 11am-3pm at Washington Univ
   
 **FOR MORE INFO** Kim Barrington, 314-918-0201, [kim@trendsights.com](mailto:kim@trendsights.com)  
   
-[Add to your calendar](/attachments/Hackathon_for_the_Homeless.ics)
+[Add kickoff to your calendar](/attachments/Hackathon_for_the_Homeless.ics)  
+[Add presentations to your calendar](/attachments/Hacakthon_for_the_Homeless_Presentations.ics)
