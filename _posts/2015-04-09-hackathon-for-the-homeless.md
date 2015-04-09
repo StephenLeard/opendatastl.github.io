@@ -3,7 +3,7 @@ layout: post
 title:  Hackathon for the Homeless
 ---
   
-## “Hackathon for the Homeless” to benefit St. Patrick Center and The Bridge  
+### “Hackathon for the Homeless” to benefit St. Patrick Center and The Bridge  
   
 **WHO**  
 OpenDataSTL, a community of computer programmers, designers, and residents working to improve St. Louis through open data, technology and design.  
