@@ -36,19 +36,4 @@ DESCRIPTION:Hackathon for the Homeless
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20150409T142725Z
-UID:20150409T142725Z-1538358111@marudot.com
-DTSTART;TZID="America/Chicago":20150412T110000
-DTEND;TZID="America/Chicago":20150412T150000
-SUMMARY:Hackathon for the Homeless Presentations
-URL:http%3A%2F%2Fopendatastl.github.io%2Fhackathon-for-the-homeless%2F
-DESCRIPTION:We wrap up the Hackathon for the Homeless scatterjam with presentations at WUSTL.\nPresentations will be in Rudolph Hall\, Room 308\, Washington University in St Louis Danforth Campus\, starting at 11 am and wrapping up by 3 pm.\nRSVP at http://www.meetup.com/Open-Data-STL/\nMore information at http://opendatastl.github.io/hackathon-for-the-homeless/ 
-LOCATION:Rudolph Hall\, Room 308\, Washington University in St Louis\, 1 Brookings Dr\, St Louis\, MO 63130
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hackathon for the Homeless Presentations
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
 END:VCALENDAR
