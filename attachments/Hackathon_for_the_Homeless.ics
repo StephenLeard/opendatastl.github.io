@@ -1,7 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//www.marudot.com//iCal Event Maker
-X-WR-CALNAME:Hackathon for the Homeless
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:America/Chicago
