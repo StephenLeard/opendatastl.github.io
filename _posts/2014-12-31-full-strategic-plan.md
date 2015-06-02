@@ -111,8 +111,9 @@ Many of our goals will be advanced during and through events.  In addition to th
 
 ----------
 
-##Draft Budget  
+##Budget  
 *Note: Draft budget is based on an anticipated $5,500 of Code for America brigade support. Budget categories and line item amounts may shift as goals/strategies are refined, specific event needs are identified, or local sponsorships are obtained.*  
+[Track our budget and expenditures here](https://docs.google.com/spreadsheets/d/1F5sDLVKhwBuUMU8eVtUe3GhGlOFMmuSjbn6sIUJtNGU/edit?usp=sharing)  
   
 $ 500.00  Brigade Costs     
 $1960.00  Regular Events  
