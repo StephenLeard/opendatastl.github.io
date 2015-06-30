@@ -16,7 +16,7 @@ Bio coming.
   
 <img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Jenny Fung  
 ==========  
-##>Community Organizer  
+##Community Organizer  
 Bio coming.  
   
 <!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
