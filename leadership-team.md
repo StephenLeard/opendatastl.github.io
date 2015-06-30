@@ -6,27 +6,27 @@ permalink: /leadership/
 
 <img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Arthur Crawford  
 ==========  
-<h2>Co-Captain</h2>  
+##Co-Captain  
 Bio coming.  
   
 <img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Nehemiah Dacres  
 ==========  
-<h2>Co-Captain</h2>  
+##Co-Captain  
 Bio coming.  
   
 <img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Jenny Fung  
 ==========  
-<h2>Community Organizer</h2>  
+##>Community Organizer  
 Bio coming.  
   
 <!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
 ==========  
-<h2>Delivery Lead</h2>  
+###Delivery Lead  
 *Currently Vacant*  
   
 <!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
 ==========  
-<h2>Storyteller</h2>  
+###Storyteller  
 *Currently Vacant*  
 ==========  
   
