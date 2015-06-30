@@ -19,11 +19,12 @@ Bio coming.
 <h2>Community Organizer</h2>  
 Bio coming.  
   
-<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">  
+<!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
 ==========  
 <h2>Delivery Lead</h2>  
+*Currently Vacant*  
   
-<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">  
+<!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
 ==========  
 <h2>Storyteller</h2>  
 *Currently Vacant*  
