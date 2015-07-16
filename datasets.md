@@ -13,5 +13,5 @@ At its heart, OpenDataSTL is about freeing data and making cool stuff with it, a
 
 [SLMPD Downloadable Crime Files](http://www.slmpd.org/Crimereports.shtml)
 
-
-
+##Socrata datasets
+[Random Hacks of Kindness Saint Louis](https://communities.socrata.com/catalogs/rhok-st-louis)
