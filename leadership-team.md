@@ -19,20 +19,20 @@ Bio coming.
 <h2>Community Organizer</h2>  
 Bio coming.  
   
-<!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
-==========  
-<h3>Delivery Lead</h3>  
-*Currently Vacant*  
-  
 <img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Stephen Leard  
 ==========  
 <h2>Storyteller</h2>  
 Bio coming.  
 ==========  
   
+<!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
+==========  
+<h3>Delivery Lead</h3>  
+*Currently Vacant*  
+  
 Local Government Partners  
 ==========  
 * City of St Louis  
-  - Carl Filler, Health Department
+  - Carl Filler, Health Department  
 * St Louis County  
-  - Mike Duncan, CIO
+  - Mike Duncan, CIO  
