@@ -24,10 +24,10 @@ Bio coming.
 <h3>Delivery Lead</h3>  
 *Currently Vacant*  
   
-<!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
+<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Stephen Leard  
 ==========  
-<h3>Storyteller</h3>  
-*Currently Vacant*  
+<h2>Storyteller</h2>  
+Bio coming.  
 ==========  
   
 Local Government Partners  
