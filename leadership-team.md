@@ -23,8 +23,7 @@ Bio coming.
 ==========  
 <h2>Storyteller</h2>  
 Bio coming.  
-==========  
-  
+
 <!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
 ==========  
 <h3>Delivery Lead</h3>  
