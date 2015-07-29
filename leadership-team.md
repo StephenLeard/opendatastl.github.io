@@ -25,7 +25,7 @@ Bio coming.
 Bio coming.  
 
 <!--<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">-->  
-==========  
+<!--==========-->  
 <h3>Delivery Lead</h3>  
 *Currently Vacant*  
   
