@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Join us at GlobalHack V!
+author: Eleanor
 ---
   
 OpenDataSTL is partnering with GlobalHack on their first civic-focused hackathon this weekend September 11-13. 
