@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GlobalHack Recap
+author: Nehemiah
 ---
 
 ## We're not finished yet!
