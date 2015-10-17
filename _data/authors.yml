@@ -6,8 +6,8 @@
   twitter: blordcastillo
   github: blordcastillo
   topics: 
-      - Topic 1
-      - Topic 2
+      - topic: Topic 1
+      - topic: Topic 2
   bio: This is the full text of a biography
   
 - display_name: Eleanor
