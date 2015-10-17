@@ -1,0 +1,20 @@
+<div class="container" style='margin: 50px auto;'>
+  <div class="row">
+    <div class="ol-md-8 col-md-offset-2">
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" alt="photo of {{ author.name }}">
+      <h3>{{ author.name }}</h3>
+      {% for t in author.topics %}
+        * {{t.topic}}
+      {% endfor %}
+      <p>
+        {{ author.bio }}
+      </p>
+      <p>
+        {% if author.website != null %}<a href="{{ author.website }}">{{ author.website }}</a>{% endif %}
+        {% if author.email != null %}<a href="mailto:{{ author.email }}">{% include svg-icons/email.html %}</a>{% endif %}
+    		{% if author.twitter != null %}<a href="http://twitter.com/{{ author.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
+    		{% if author.github != null %}<a href="http://github.com/{{ author.github }}">{% include svg-icons/github.html %}</a>{% endif %}
+    	</p>
+    </div>
+  </div>
+</div>
