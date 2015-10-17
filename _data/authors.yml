@@ -87,7 +87,7 @@
   twitter: tarapham
   github: 
   topics: 
-      - Courts Project
-      - Civic Technology
+      - topic: Courts Project
+      - topic: Civic Technology
   bio: 
   speaker: Yes
