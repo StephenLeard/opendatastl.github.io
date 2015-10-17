@@ -8,7 +8,7 @@ Check to make sure content loaded
 {% for a in site.data.authors %}  
 Name: {{a.name}}  
 Speaker? {{a.speaker}}  
-{% if a.speaker == 'Yes' %}  
+{% if a.speaker %}  
 {% assign author = a %}  
 {% include speaker.html %}  
 {% endif %}{% endfor %}  
