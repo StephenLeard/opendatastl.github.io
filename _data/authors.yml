@@ -5,6 +5,10 @@
   website: http://opendatastl.github.io/
   twitter: blordcastillo
   github: blordcastillo
+  topics: 
+      - Topic 1
+      - Topic 2
+  bio: This is the full text of a biography
   
 - display_name: Eleanor
   name: Eleanot Tutt
@@ -13,6 +17,8 @@
   website: http://risestl.org/
   twitter: eleanortutt
   github: eleanortutt
+  topics: []
+  bio:
   
 - display_name: Stephen
   name: Stephen Leard
@@ -21,6 +27,8 @@
   website: http://opendatastl.github.io/
   twitter: 
   github: StephenLeard
+  topics: []
+  bio:
   
 - display_name: Nehemiah
   name: Nehemiah Dacres
@@ -29,3 +37,5 @@
   website: http://dacresni.github.io/
   twitter: 
   github: dacresni
+  topics: []
+  bio:
