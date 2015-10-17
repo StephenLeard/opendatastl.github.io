@@ -75,8 +75,11 @@
   website: 
   twitter: jrcharney
   github: jrcharney
-  topics: []
-  bio: 
+  topics:
+      - topic: Public Transportation
+      - topic: Mental Health and Self Advocacy
+      - topic: Parcel Resources
+  bio: Jason has a Bachelors Degree in Computer Science, has had an interest in maps ever since he was young, and participates in severl hackathon events in the St. Louis Area.  He is currently working on his Hacktop (a Raspberry Pi powered laptop computer), Software Defined Radio, and looking for data sources to track delinquent properties listed under LLCs, resources for mental health, and finding ways to improve the local public transit system.
   speaker: Yes
 
 - display_name: Tara
