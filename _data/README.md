@@ -27,4 +27,5 @@ There are two spaces after ```topics:  ```, then each line under that is four sp
 ```(space)(space)(space)(space)-(space)topic:(space)<your topic text>```
   
 When you are done and ready to commit changes, instead of choosing the default to "Commit directly to the ```master``` branch, switch to "Create a **new branch** for this commit and start a pull request." Give your commit a descriptive title (like "Updating author info for Brett"), a description if you want, and give a descriptive branch name too. Branch names are all lower cases with dashes for spaces, e.g. ```brett-author-info-update```.  
-The green button should say "Propose file change" instead of "Commit changes". 
+The green button should say "Propose file change" instead of "Commit changes". Click this button and you will be taken to a new screen with your previous descriptive info filled in and a green button that says, "Create Pull Request".    
+Click this, and you are done. Someone will merge in your pull request shortly and your info will be updated!  
