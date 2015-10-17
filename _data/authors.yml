@@ -9,6 +9,7 @@
       - topic: Topic 1
       - topic: Topic 2
   bio: This is the full text of a biography
+  speaker: Yes
   
 - display_name: Eleanor
   name: Eleanot Tutt
