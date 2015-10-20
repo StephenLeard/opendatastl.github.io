@@ -1,5 +1,8 @@
-Repo Issues in Ready on Waffle.io  
-[![Stories in Ready](https://badge.waffle.io/OpenDataSTL/opendatastl.github.io.png?label=ready&title=Ready)](https://waffle.io/OpenDataSTL/opendatastl.github.io)
+[![Stories in Ready](https://badge.waffle.io/OpenDataSTL/opendatastl.github.io.png?label=ready&title=ready)](https://waffle.io/OpenDataSTL/opendatastl.github.io "Waffle.io Stories in Ready")
+[![Stories In Progress](https://badge.waffle.io/OpenDataSTL/opendatastl.github.io.png?label=in%20progress&title=in%20progress)](https://waffle.io/OpenDataSTL/opendatastl.github.io "Waffle.io Stories in In Progress")  
+[![Slack Status](https://arcane-ocean-6928.herokuapp.com/badge.svg)](https://opendatastl.slack.com "Users on Slack")
+[![Build Status](https://travis-ci.org/OpenDataSTL/opendatastl.github.io.svg?branch=master)](https://travis-ci.org/OpenDataSTL/opendatastl.github.io "Travis CI Build Status")
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
