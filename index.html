@@ -18,9 +18,10 @@ xhr.onload = function () {
         }
     }
 };
+xhr.send();
 var next = "next"
-var generated = "<p>Our next meeting is happening at <time>"+next+"</time><p>";
-document.querySelector("#next").innerHTML=generated;
+var statement = "<p>Our next meeting is happening at <time>"+next+"</time><p>";
+document.querySelector("#next").innerHTML=statement;
 
 </script>
 <article id='next'> 
