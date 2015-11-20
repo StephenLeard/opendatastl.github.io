@@ -1,7 +1,31 @@
 ---
 layout: default
 ---
+<script>
+var xhr = new XMLHttpRequest();
+//var url = 'https://api.meetup.com/Open-Data-STL/events/psjxklytpbgc?photo-host=public&sig_id=141516192&sig=494f9a6d04128d330d5fd331bca77e011f6dec38';
+var url="https://api.meetup.com/Open-Data-STL?photo-host=public&sig_id=141516192&sig=3634a6a7d63920210b676cef02381cacd186100a"
+xhr.open('GET', url, true);
 
+// If specified, responseType must be empty string or "text"
+xhr.responseType = 'text';
+
+xhr.onload = function () {
+    if (xhr.readyState === xhr.DONE) {
+        if (xhr.status === 200) {
+            console.log(xhr.response);
+            console.log(xhr.responseText);
+        }
+    }
+};
+var next = "next"
+var generated = "<p>Our next meeting is happening at <time>"+next+"</time><p>";
+document.querySelector("#next").innerHTML=generated;
+
+</script>
+<article id='next'> 
+    
+</article>
 <div class="posts">
   <!-- Display sticky posts first without truncation-->
   {% for post in site.categories.sticky %}
