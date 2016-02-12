@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft Weekly Schedule
+title: Draft Event Cadence
 author: Stephen
 ---
 Here are some notes I had at our last meeting  
