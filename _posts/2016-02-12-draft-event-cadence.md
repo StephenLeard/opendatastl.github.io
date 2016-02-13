@@ -21,6 +21,7 @@ These are obviously crucial, and need to be established in a way that's self-org
   
 It would be cool to have weekly worknights coincide with Venture Cafe, so maybe 6-9pm on Thursday at either CIC or CET.  
 To stay beginner-friendly and somewhat focused, each week would also have a general theme, corresponding to the "contribute" trainings I've mentioned before:  
+  
  *    Week 1) Getting involved: version control, front-end design, contributing content (git intro, digital front door work, jekyll and content)  
  *    Week 2) Exploring Data: visualization, analysis, discovery, access, policy, wrangling, and cleaning (intro the community portal, d3, policy development)  
  *    Week 3) Ideas and projects: pitching ideas, project status updates, Civic Tech Canvas  
