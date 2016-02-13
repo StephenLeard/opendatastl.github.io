@@ -3,21 +3,22 @@ layout: post
 title: Draft Event Cadence
 author: Stephen
 ---
-Here are some notes I had at our last meeting  
+Here are some notes I have from our last meeting  
  
 ## Brigade Focuses 
 It might be helpful for the brigade to have these focuses:  
   
- *  Events + presentations: Connecting with other meetup groups and providing resources for people to learn and contribute  
- *  Projects + worknights: Facilitating time + space for productive work  
- *  A network of information + online resources (i.e., a great website): Transferring knowledge from and information about the civic tech community locally and the CfA/brigade community (inter)nationally  
+ *  **Events + presentations**: Connecting with other meetup groups and providing resources for people to learn and contribute  
+ *  **Projects + worknights**: Facilitating time + space for productive work  
+ *  **A network of information + online resources** (i.e., a great website): Transferring knowledge from and information about the civic tech community locally and the CfA/brigade community (inter)nationally  
   
 In this way, the group serves as an onramp for helping people discover and apply their interest in civic tech and community/government data.  
   
-## Draft "event cadence" to work towards for 2016  
+## Draft "Event Cadence" to work towards for 2016  
   
-### Weekly worknights  
+### Weekly Worknights  
 These are obviously crucial, and need to be established in a way that's self-organizing/emergent, i.e., people decide on what they want to work on and are responsible for their own stuff/projects of interest. The group provides recommendations and resources for successful projects, but each individual projects has its own owner/champion/etc.  
+  
 It would be cool to have weekly worknights coincide with Venture Cafe, so maybe 6-9pm on Thursday at either CIC or CET.  
 To stay beginner-friendly and somewhat focused, each week would also have a general theme, corresponding to the "contribute" trainings I've mentioned before:  
  *    Week 1) Getting involved: version control, front-end design, contributing content (git intro, digital front door work, jekyll and content)  
